@@ -54,11 +54,6 @@ British • French • Spanish • American • Dutch • Danish • Swedish •
 
 ---
 
-## 🎲 Game Mechanics
-
-**Scale**: 1 turn = 1 minute | 1mm = 1 meter  
-**Required**: Percentage dice, D6, measuring tools, miniature ships, Battle Log sheets
-
 ### Key Systems
 
 - **Movement**: Point of sail system with realistic turning restrictions
@@ -82,7 +77,7 @@ This edition represents a collaboration between original designer Barry J. Fox a
 - Minor corrections and clarifications
 
 **2025 Additions** (Linus Spjutsberg):
-- Complete transcription and professional formatting
+- Complete transcription and formatting
 - House rules developed through playtesting:
   - Enhanced fire mechanics
   - Detailed gun crew casualties
@@ -90,7 +85,6 @@ This edition represents a collaboration between original designer Barry J. Fox a
   - Magazine flooding effects
 - Digital companion app for automated calculations
 - Redesigned play aids and gauges
-- Modern document layout
 
 ---
 
@@ -166,9 +160,6 @@ Special thanks to Barry J. Fox for his generosity in allowing this free edition 
 
 **Linus Spjutsberg**  
 - YouTube: [Linus Napoleonic Shipyard](https://www.youtube.com/@linusnapoleonicshipyard)
-- Location: Forestad, Sweden
-
-For questions about the original 1981 design or historical research, please respect Barry J. Fox's privacy.
 
 ---
 
@@ -183,4 +174,4 @@ If you enjoy Beat to Quarters:
 ---
 
 *Originally published by Command Perspectives, 1981*  
-*Released as free edition December 2025*
+*Released as free edition December 2025 with original designers permission completly redesigned and edited*
